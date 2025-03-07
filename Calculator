@@ -1,2 +1,11 @@
 Console.WriteLine("Muhammad Usman Waseem");
 Console.WriteLine("24-SET-070");
+SUBTRACTION
+{
+            Console.Write("Enter the first number: ");
+            double num1 = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Enter the second number: ");
+            double num2 = Convert.ToDouble(Console.ReadLine());
+            double difference = num1 - num2;
+            Console.WriteLine($"The difference between {num1} and {num2} is {difference}");
+}
