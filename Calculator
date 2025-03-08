@@ -21,5 +21,7 @@ Console.WriteLine("24-SET-070");
             SUBTRACTION
             double difference = num1 - num2;
             Console.WriteLine($"The difference between {num1} and {num2} is {difference}");
-
+            ADDITION
+            double sum = num1 + num2;
+            Console.WriteLine($"The sum of {num1} and {num2} is {sum}");
 }
