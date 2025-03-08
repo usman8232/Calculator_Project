@@ -1,5 +1,6 @@
 Console.WriteLine("Muhammad Usman Waseem");
 Console.WriteLine("24-SET-070");
+Console.WriteLine("Veni; Vidi; Vici");
 Console.WriteLine("Gracias! Por Mirar!);
 {
             Console.Write("Enter the first number: ");
